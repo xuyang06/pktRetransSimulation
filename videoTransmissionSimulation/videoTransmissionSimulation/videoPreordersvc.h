@@ -4,8 +4,6 @@
 // Video traffic trace of SVC streams 
 // Pre-ordered version
 //
-// Created: Hao Hu
-// Date:    11/2011
 // ---------------------------
 
 #ifndef videoPreordersvc_h

@@ -5,8 +5,6 @@
 // In videohdr.h, structure 'hdr_video' 
 // defines the Video Pkt Header
 //
-// Hao Hu
-// 06/2010
 // ---------------------------
 
 #ifndef videopkt_h
